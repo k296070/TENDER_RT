@@ -1,9 +1,4 @@
-// gshare.v
-
-/* The Gshare predictor consists of the global branch history register (BHR)
- * and a pattern history table (PHT). Note that PC[1:0] is not used for
- * indexing.
- */
+// comperator.v
 
 module comperator #(
   parameter DATA_WIDTH = 16
