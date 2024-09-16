@@ -1,0 +1,2 @@
+make
+./TR_TENDER
